@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2.5.2 App</string>
+    <string name="login_string">Логин</string>
+    <string name="password_string">Пароль</string>
+</resources>
